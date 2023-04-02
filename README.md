@@ -3,6 +3,9 @@
 https://www.notion.so/OneBlock-Community-7e65f4e8511643baac8eea8e16e4f5d0
 
 第四课
+/substrate-node-template-poe
+
+第四课
 05: 为枚举交通信号灯实现一个 trait，trait 里包含一个返回时间的方法，不同的灯持续的时间不同
 /traffic_light
 
